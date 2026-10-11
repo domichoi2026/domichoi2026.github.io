@@ -1,11 +1,11 @@
-/* 작가와 사람들 — warm & calm */
+/* Domi Choi — river & light */
 :root {
-  --ink: #3a3733;
-  --ink-soft: #6b6560;
-  --line: #e4ded6;
-  --bg: #fdfcfa;
-  --accent: #a4762a;
-  --accent-soft: #f5efe3;
+  --ink: #2c3436;
+  --ink-soft: #5f6e72;
+  --line: #d5e0e2;
+  --bg: #fafcfd;
+  --accent: #1a7a8c;
+  --accent-soft: #e8f2f4;
 }
 
 * { box-sizing: border-box; }
@@ -14,7 +14,7 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--ink);
-  font-family: "Noto Serif KR", "Apple SD Gothic Neo", "Malgun Gothic", serif;
+  font-family: Georgia, "Times New Roman", serif;
   line-height: 1.9;
   font-size: 17px;
 }
